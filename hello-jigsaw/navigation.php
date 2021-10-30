@@ -10,5 +10,8 @@ return [
             'Custom 404 Page' => 'docs/custom-404-page',
         ],
     ],
+    'About' => [
+        'url' => '/about',
+    ],
     'Jigsaw Docs' => 'https://jigsaw.tighten.co/docs/installation',
 ];
