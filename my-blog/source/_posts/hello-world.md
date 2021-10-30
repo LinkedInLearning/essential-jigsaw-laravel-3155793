@@ -8,6 +8,7 @@ cover_image: /assets/img/post-cover-image-2.png
 alt: Hello world
 featured: true
 categories: [configuration]
+published: true
 ---
 
 Hello world, how are you?
